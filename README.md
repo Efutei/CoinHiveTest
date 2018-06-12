@@ -1,0 +1,2 @@
+# CoinHiveTest
+掘る
